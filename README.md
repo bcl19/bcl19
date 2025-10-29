@@ -33,7 +33,7 @@
 ### 🌐 Contato
 
 - 📧 E-mail: [bernardochimelliluz14@gmail.com](mailto:bernardochimelliluz14@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/bernardo-chimelli-649628311](https://www.linkedin.com/in/bernardo-chimelli-649628311)
+- 💼 LinkedIn: [linkedin.com/in/bernardo-chimelli-luz-649628311](https://www.linkedin.com/in/bernardo-chimelli-luz-649628311])
 - 💻 GitHub: [github.com/bcl19](https://github.com/bcl19)
 
 ---
@@ -42,7 +42,8 @@
 
 - 🔨 Lançamento do meu **portfólio pessoal completo** com projetos e blog técnico!
 - 🔨 Lançamento do meu **sistema web de pizzaria** com registro de usuários e pedidos
-
+- 🔨 Lançamento do meu **sistema back-end completo** ainda sob-planejamento!
+  
 ---
 
 <div align="center">
